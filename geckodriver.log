@@ -1,0 +1,1014 @@
+1597313837940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofilethpSpp"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597313843120	Marionette	INFO	Listening on port 56277
+1597313843173	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+1597313858723	Marionette	INFO	Stopped listening on port 56277
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597314337233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofilexerRPX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597314340622	Marionette	INFO	Listening on port 56420
+1597314340852	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+1597314348871	Marionette	INFO	Stopped listening on port 56420
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597314648104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofilePJqIRS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597314651760	Marionette	INFO	Listening on port 56537
+1597314652257	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+1597314664372	Marionette	INFO	Stopped listening on port 56537
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597314872631	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofilePrDe29"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597314875984	Marionette	INFO	Listening on port 56644
+1597314876256	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+1597314959056	Marionette	INFO	Stopped listening on port 56644
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofileOM1VoC"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597314952232	Marionette	INFO	Listening on port 56764
+1597314952493	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597314956937	Marionette	INFO	Stopped listening on port 56764
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597314971005	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofilepwAa5u"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597314974132	Marionette	INFO	Listening on port 56817
+1597314974626	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1597314980137	Marionette	INFO	Stopped listening on port 56817
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597314992401	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofilexI5JDi"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597314995898	Marionette	INFO	Listening on port 56919
+1597314996028	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597315005268	Marionette	INFO	Stopped listening on port 56919
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597315015870	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofilehkyPC9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597315019872	Marionette	INFO	Listening on port 56969
+1597315019992	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597315026364	Marionette	INFO	Stopped listening on port 56969
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597315286794	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofiles6GiCv"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597315290120	Marionette	INFO	Listening on port 57051
+1597315290415	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597315295277	Marionette	INFO	Stopped listening on port 57051
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597315317544	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofiletsuTqt"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597315321013	Marionette	INFO	Listening on port 57101
+1597315321181	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1597317115000	Marionette	INFO	Stopped listening on port 57101
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofilecBiloQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597316956593	Marionette	INFO	Listening on port 57740
+1597316956729	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+1597316960089	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+1597316984198	Marionette	INFO	Stopped listening on port 57740
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597317039360	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofile1FpJ1a"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597317043779	Marionette	INFO	Listening on port 57881
+1597317044091	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+1597317048069	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+1597317060632	Marionette	INFO	Stopped listening on port 57881
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597317121223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofileNIb4iC"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597317124648	Marionette	INFO	Listening on port 58024
+1597317124841	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+1597317128941	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+1597317138873	Marionette	INFO	Stopped listening on port 58024
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597317577561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofilercl3al"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597317580633	Marionette	INFO	Listening on port 58360
+1597317580683	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+1597317584404	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+1597317601777	Marionette	INFO	Stopped listening on port 58360
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597319885207	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofileyswnfS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597319889041	Marionette	INFO	Listening on port 59728
+1597319889334	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+1597319893931	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+1597319910638	Marionette	INFO	Stopped listening on port 59728
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597321008869	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofileDPGmID"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597321011669	Marionette	INFO	Listening on port 60416
+1597321011987	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+1597321016784	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1597321025618	Marionette	INFO	Stopped listening on port 60416
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597321415157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofile6S6N4V"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597321418491	Marionette	INFO	Listening on port 60713
+1597321418777	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+1597321421701	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+1597321426994	Marionette	INFO	Stopped listening on port 60713
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597322205163	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofile7jzehc"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597322208044	Marionette	INFO	Listening on port 61208
+1597322208277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+1597322211791	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+1597322228329	Marionette	INFO	Stopped listening on port 61208
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597322339036	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofile59F4jn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597322341593	Marionette	INFO	Listening on port 61387
+1597322341678	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+1597322345109	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+1597322352720	Marionette	INFO	Stopped listening on port 61387
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597322448980	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofileDmFB6u"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597322451750	Marionette	INFO	Listening on port 61494
+1597322452100	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+1597322458417	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+1597322467341	Marionette	INFO	Stopped listening on port 61494
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597322678997	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofilexImr3O"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597322681772	Marionette	INFO	Listening on port 61656
+1597322682108	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+1597322684576	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.snapdeal.com"
+1597322716816	Marionette	INFO	Stopped listening on port 61656
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597322756536	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofilezS3XHE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597322759471	Marionette	INFO	Listening on port 61806
+1597322759650	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+1597322762498	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+1597322781395	Marionette	INFO	Stopped listening on port 61806
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597322823759	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofilegpvPU3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597322826535	Marionette	INFO	Listening on port 61943
+1597322826875	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+1597322829581	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+1597322841211	Marionette	INFO	Stopped listening on port 61943
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597323134373	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofilebzZMpi"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597323137274	Marionette	INFO	Listening on port 62077
+1597323137501	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+1597323140699	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 2164: TypeError: event.target.closest is not a function
+1597323163296	Marionette	INFO	Stopped listening on port 62077
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597323215652	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofilePjwnhd"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597323218594	Marionette	INFO	Listening on port 62180
+1597323218782	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+1597323221768	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+1597323709233	Marionette	INFO	Stopped listening on port 62180
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofileuRq9Ji"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597323241612	Marionette	INFO	Listening on port 62285
+1597323241851	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+1597323245290	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+1597323251260	Marionette	INFO	Stopped listening on port 62285
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597323266668	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofileuJPcaS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597323269730	Marionette	INFO	Listening on port 62393
+1597323269791	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+1597323272414	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1597323462361	Marionette	INFO	Stopped listening on port 62393
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofilermgSvi"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597323440475	Marionette	INFO	Listening on port 62515
+1597323440537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+1597323445936	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+1597323461732	Marionette	INFO	Stopped listening on port 62515
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597323624548	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofile5g8dGE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597323627363	Marionette	INFO	Listening on port 62713
+1597323627663	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+1597323631087	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+1597323709229	Marionette	INFO	Stopped listening on port 62713
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597323653205	Marionette	INFO	Listening on port 62827
+1597323653500	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+1597323656381	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+1597323669318	Marionette	INFO	Stopped listening on port 62827
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597323911217	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofilextwQOs"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597323913850	Marionette	INFO	Listening on port 62952
+1597323914331	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+1597323916620	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+1597323926462	Marionette	INFO	Stopped listening on port 62952
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597330995767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofilemwEjc2"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597331000326	Marionette	INFO	Listening on port 63950
+1597331000484	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+1597331003362	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.snapdeal.com"
+1597331039139	Marionette	INFO	Stopped listening on port 63950
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597332430032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofile7xwbF1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597332432842	Marionette	INFO	Listening on port 61373
+1597332433173	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+1597332436411	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+1597332450586	Marionette	INFO	Stopped listening on port 61373
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597332487287	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofilersEU4n"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597332490063	Marionette	INFO	Listening on port 61513
+1597332490403	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+1597332493852	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+1597332508900	Marionette	INFO	Stopped listening on port 61513
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597332563287	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofilepTchc4"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597332566003	Marionette	INFO	Listening on port 61657
+1597332566401	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+1597332569694	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+1597332580016	Marionette	INFO	Stopped listening on port 61657
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597333195949	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofilebT2iEW"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597333198628	Marionette	INFO	Listening on port 62068
+1597333199083	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+1597333201944	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:void(0);'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 659"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:659:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:509:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:1998:69
+addAllSources@resource://devtools/server/actors/thread.js:1382:14
+onSources@resource://devtools/server/actors/thread.js:1388:10
+onPacket@resource://devtools/server/devtools-server-connection.js:380:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 659, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 659: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:void(0);'
+1597333233541	Marionette	INFO	Stopped listening on port 62068
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597333683849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofileCYWqrQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597333686800	Marionette	INFO	Listening on port 62447
+1597333686966	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+1597333690258	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+1597333764900	Marionette	INFO	Stopped listening on port 62447
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597334133167	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kella\\AppData\\Local\\Temp\\rust_mozprofileMxVaic"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597334136595	Marionette	INFO	Listening on port 62798
+1597334136791	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+1597334140127	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 62: unreachable code after return statement
+JavaScript warning: https://i2.sdlcdn.com/js/1595484241840/snapdeal/loginIframe.min.js, line 66: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 20: unreachable code after return statement
+JavaScript warning: https://i1.sdlcdn.com/js/1595484241840/snap/base.jquery111.min.js, line 23: unreachable code after return statement
+1597334149209	Marionette	INFO	Stopped listening on port 62798
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
