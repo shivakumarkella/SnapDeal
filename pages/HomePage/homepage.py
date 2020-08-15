@@ -19,10 +19,16 @@ class HomePage(object):
     hp_password_Locatortype=list(Locator['password'].items())[0][0]
     hp_submittlogin_Locator=list(Locator['submitlogin'].items())[0][1]
     hp_submittlogin_Locatortype=list(Locator['submitlogin'].items())[0][0]
+    # hp_successfull_Locator = list(Locator['successfull'].items())[0][1]
+    # hp_successfull_Locatortype = list(Locator['successfull'].items())[0][0]
+    # hp_failed_Locator = list(Locator['failed'].items())[0][1]
+    # hp_failed_Locatortype = list(Locator['failed'].items())[0][0]
+
 
     def __init__(self,driver):
         self.driver=driver
         self.obj_Selenium=Se_actions(driver=self.driver)
+
 
     def goToHomePage(self,homepageUrl):
         self.obj_Selenium.getUrl(url=homepageUrl)
@@ -55,12 +61,26 @@ class HomePage(object):
         submitbutton=self.obj_Selenium.getElement(locator=self.hp_submittlogin_Locator,locatortype=self.hp_submittlogin_Locatortype)
         self.obj_Selenium.clickon(element=submitbutton)
 
+    def verifyloginsuccessfull(self):
+        result=self.obj_Selenium.isElementPresent(locator=self.hp_successfull_Locator,locatorType=self.hp_successfull_Locatortype)
+        return result
+
+    def verifyloginFailed(self):
+        result = self.obj_Selenium.isElementPresent(locator=self.hp_failed_Locator,locatorType=self.hp_failed_Locatortype)
+        return result
+
+    def takescreenshots(self):
+        self.obj_Selenium.screenshots()
+
     def signIn(self,homepage,userName,password):
         self.goToHomePage(homepageUrl=homepage)
         self.clickOnUserIcon()
         self.clicklogin()
         self.goToiframe()
         self.enterUserName(email=userName)
+        self.takescreenshots()
         self.clickcontinue()
         self.enterpassword(password=password)
         self.submitlogin()
+        self.takescreenshots()
+

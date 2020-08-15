@@ -15,14 +15,3 @@ def pytest_addoption(parser):
 @pytest.fixture(scope="session")
 def browser(request):
     return request.config.getoption("--browser")
-
-
-
-
-
-
-
-
-
-
-
