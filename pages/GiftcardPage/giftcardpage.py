@@ -11,6 +11,8 @@ class GiftcardPage():
     gcp_digitalmini_Locatortype = list(Locator['digitalmini'].items())[0][0]
     gcp_slider_Locator = list(Locator['slider'].items())[0][1]
     gcp_slider_Locatortype = list(Locator['slider'].items())[0][0]
+    gcp_left_Locator = list(Locator['leftSlide'].items())[0][1]
+    gcp_left_Locatortype = list(Locator['leftSlide'].items())[0][0]
 
     def __init__(self,driver):
         self.obj_SA=Se_actions(driver=driver)
@@ -25,7 +27,8 @@ class GiftcardPage():
 
     def slider(self):
         element=self.obj_SA.getElement(locator=self.gcp_slider_Locator,locatortype=self.gcp_slider_Locatortype)
-        self.obj_SA.getslider(element=element)
+        Leftelement = self.obj_SA.getElement(locator=self.gcp_left_Locator, locatortype=self.gcp_left_Locatortype)
+        self.obj_SA.getslider(element=element,leftElement=Leftelement)
 
     def giftcards(self):
         self.gotogiftpage()

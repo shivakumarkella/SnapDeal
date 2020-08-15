@@ -82,8 +82,8 @@ class Se_actions():
         else:
             return False
 
-    def getslider(self,element):
-        self.actions.drag_and_drop_by_offset(element,00,-50).perform()
+    def getslider(self,element,leftElement):
+        self.actions.click_and_hold(on_element=leftElement).move_by_offset(50,0).release(on_element=element).perform()
 
 
 
