@@ -83,9 +83,11 @@ class Se_actions():
             return False
 
     def getslider(self,element,leftElement):
-        self.actions.click_and_hold(on_element=leftElement).move_by_offset(50,0).release(on_element=element).perform()
+        self.actions.click_and_hold(on_element=leftElement).move_by_offset(25,0).release(on_element=element).perform()
 
 
-
+    def scrollElementIntoView(self,element):
+        self.driver.execute_script("arguments[0].scrollIntoView(true);", element)
+        self.driver.execute_script("window.scrollBy(0, -100);")
 
 
