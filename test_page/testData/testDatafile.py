@@ -12,3 +12,10 @@ automationLogFileName='automation.log'
 
 # screenshot
 screenshotpath="test_results\\"
+
+# giftpage shipping details:
+recipientName="K shiva kumar"
+recipientEmail="shivakumar.kella@gmail.com"
+message="we want this product ASP..."
+fullname="kella shivakumar"
+mobile="9000342987"

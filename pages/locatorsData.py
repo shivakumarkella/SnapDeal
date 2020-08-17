@@ -13,7 +13,9 @@ giftcardpage={"gifticon":{"xpath":"//div[@class='headerBar reset-padding']//span
                 "discount":{"xpath":"//div[4]//div[3]//div[1]//div[1]//label[1]"},
                 "discountViewMore":{"xpath":"/html[1]/body[1]/div[10]/div[9]/div[1]/div[1]/div[1]/div[2]/div[4]/div[3]/button[1]"},
               "customerratng":{"xpath":"/html[1]/body[1]/div[10]/div[9]/div[1]/div[1]/div[1]/div[2]/div[5]/div[3]/div[1]/div[4]/label[1]"},
-              "product":{"id":"631784560786"}
+              "product":{"id":"667409370643"},"buynow":{"id":"buy-button-id"},"recipientName":{"id":"recipientName"},"recipientEmail":{"id":"recipientEmail"},
+              "message":{"id":"giftingMessage"},"fullname":{"id":"customerName"},"mobile":{"id":"customerMobile"},"clickbutton":{"id":"delivery-modes-continue"},
+              "payment":{"id":"make-payment"},"cashondeliver":{"xpath":"//span[contains(text(),'Cash On Delivery')]"}
 
 
 }
