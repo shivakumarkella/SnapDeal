@@ -1,6 +1,6 @@
 from utilities.selenium_actions import Se_actions
 from pages import locatorsData as ld
-
+import time
 class HomePage(object):
 
     # locators
@@ -76,11 +76,13 @@ class HomePage(object):
         self.goToHomePage(homepageUrl=homepage)
         self.clickOnUserIcon()
         self.clicklogin()
+
         self.goToiframe()
         self.enterUserName(email=userName)
-        self.takescreenshots()
+        # self.takescreenshots()
         self.clickcontinue()
         self.enterpassword(password=password)
         self.submitlogin()
-        self.takescreenshots()
+        time.sleep(3)
+        # self.takescreenshots()
 

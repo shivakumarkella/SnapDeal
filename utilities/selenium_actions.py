@@ -91,3 +91,17 @@ class Se_actions():
         self.driver.execute_script("window.scrollBy(0, -100);")
 
 
+    def scrollup(self):
+        self.driver.execute_script("window.scrollBy(0,-1000)")
+
+
+    def scrolldown(self):
+        self.driver.execute_script("window.scrollBy(0,500)")
+
+    def switchtowindow(self):
+        parenthandle=self.driver.current_window_handle
+        handles =self.driver.window_handles
+        for handle in handles:
+            if handle not in parenthandle:
+                self.driver.switch_to.window(handle)
+                break

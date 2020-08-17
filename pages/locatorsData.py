@@ -11,7 +11,9 @@ giftcardpage={"gifticon":{"xpath":"//div[@class='headerBar reset-padding']//span
                 "slider":{"xpath":"//div[@class='ui-slider-range ui-widget-header ui-corner-all']"},
                 "leftSlide":{"xpath":"//a[@class='price-slider-scroll right-handle ui-slider-handle ui-state-default ui-corner-all hashAdded']"},
                 "discount":{"xpath":"//div[4]//div[3]//div[1]//div[1]//label[1]"},
-                "discountViewMore":{"xpath":"/html[1]/body[1]/div[10]/div[9]/div[1]/div[1]/div[1]/div[2]/div[4]/div[3]/button[1]"}
+                "discountViewMore":{"xpath":"/html[1]/body[1]/div[10]/div[9]/div[1]/div[1]/div[1]/div[2]/div[4]/div[3]/button[1]"},
+              "customerratng":{"xpath":"/html[1]/body[1]/div[10]/div[9]/div[1]/div[1]/div[1]/div[2]/div[5]/div[3]/div[1]/div[4]/label[1]"},
+              "product":{"id":"631784560786"}
 
 
 }
