@@ -13,9 +13,9 @@ giftcardpage={"gifticon":{"xpath":"//div[@class='headerBar reset-padding']//span
                 "discount":{"xpath":"//div[4]//div[3]//div[1]//div[1]//label[1]"},
                 "discountViewMore":{"xpath":"/html[1]/body[1]/div[10]/div[9]/div[1]/div[1]/div[1]/div[2]/div[4]/div[3]/button[1]"},
               "customerratng":{"xpath":"/html[1]/body[1]/div[10]/div[9]/div[1]/div[1]/div[1]/div[2]/div[5]/div[3]/div[1]/div[4]/label[1]"},
-              "product":{"id":"667409370643"},"buynow":{"id":"buy-button-id"},"recipientName":{"id":"recipientName"},"recipientEmail":{"id":"recipientEmail"},
+              "product":{"xpath":"//section[1]//div[1]//div[2]//a[1]//picture[1]//img[1]"},"buynow":{"id":"buy-button-id"},"recipientName":{"id":"recipientName"},"recipientEmail":{"id":"recipientEmail"},
               "message":{"id":"giftingMessage"},"fullname":{"id":"customerName"},"mobile":{"id":"customerMobile"},"clickbutton":{"id":"delivery-modes-continue"},
-              "payment":{"id":"make-payment"},"cashondeliver":{"xpath":"//span[contains(text(),'Cash On Delivery')]"}
-
-
+              "payment":{"id":"make-payment"},"cashondeliver":{"xpath":"//span[contains(text(),'Cash On Delivery')]"},"netbanking":{"xpath":"//span[contains(text(),'Net Banking')]"},
+              "dropdown":{"xpath":"//body//div[@id='nb-mode']//div//div[1]//label[1]//span[1]"},
+              "andhrabank":{"xpath":"//li[contains(text(),'Andhra Bank')]"}
 }

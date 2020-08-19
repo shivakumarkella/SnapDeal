@@ -41,6 +41,12 @@ class GiftcardPage():
     gcp_payment_Locatortype = list(Locator['payment'].items())[0][0]
     gcp_cashondeliver_Locator = list(Locator['cashondeliver'].items())[0][1]
     gcp_cashondeliver_Locatortype = list(Locator['cashondeliver'].items())[0][0]
+    gcp_netbanking_Locator = list(Locator['netbanking'].items())[0][1]
+    gcp_netbanking_Locatortype = list(Locator['netbanking'].items())[0][0]
+    gcp_dropdown_Locator = list(Locator['dropdown'].items())[0][1]
+    gcp_dropdown_Locatortype = list(Locator['dropdown'].items())[0][0]
+    gcp_andhrabank_Locator = list(Locator['andhrabank'].items())[0][1]
+    gcp_andhrabank_Locatortype = list(Locator['andhrabank'].items())[0][0]
 
     def __init__(self,driver):
         self.obj_SA=Se_actions(driver=driver)
@@ -120,10 +126,11 @@ class GiftcardPage():
         element=self.obj_SA.getElement(locator=self.gcp_cashondeliver_Locator,locatortype=self.gcp_cashondeliver_Locatortype)
         self.obj_SA.clickon(element)
 
-
-
-
-
+    def netbanking(self):
+        netbank=self.obj_SA.getElement(locator=self.gcp_netbanking_Locator,locatortype=self.gcp_netbanking_Locatortype)
+        self.obj_SA.clickon(netbank)
+        time.sleep(3)
+        self.obj_SA.selectRadiobutton(locator=self.gcp_dropdown_Locator,locatorType=self.gcp_dropdown_Locatortype)
 
 
 
@@ -147,7 +154,8 @@ class GiftcardPage():
         time.sleep(3)
         self.clickbutton()
         self.payment()
-        self.cashondelivery()
+        self.netbanking()
+
 
 
 

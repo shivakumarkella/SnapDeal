@@ -101,7 +101,15 @@ class Se_actions():
     def switchtowindow(self):
         parenthandle=self.driver.current_window_handle
         handles =self.driver.window_handles
+        print(handles)
         for handle in handles:
             if handle not in parenthandle:
                 self.driver.switch_to.window(handle)
                 break
+
+    def selectRadiobutton(self,locator,locatorType,element=None):
+        if element is None:
+            element = self.getElement(locator=locator, locatortype=locatorType)
+            element.click()
+        else:
+            element.click()

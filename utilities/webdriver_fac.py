@@ -18,5 +18,7 @@ class webdriverfactory():
 
         driver.maximize_window()
         driver.implicitly_wait(3)
+
+
         return driver
 
