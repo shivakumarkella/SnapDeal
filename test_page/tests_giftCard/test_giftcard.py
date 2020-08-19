@@ -7,4 +7,4 @@ class TestsGiftcard(object):
         self.obj_GiftCard = GiftcardPage(driver=driver)
 
     def test_ValidGiftCard(self):
-        self.obj_GiftCard.giftcards(rName=TD.recipientName,rEmail=TD.recipientEmail,msge=TD.message,fulnam=TD.fullname)
+        self.obj_GiftCard.giftcards(rName=TD.recipientName,rEmail=TD.recipientEmail,msge=TD.message,fulnam=TD.fullname,username=TD.userid,password=TD.password)

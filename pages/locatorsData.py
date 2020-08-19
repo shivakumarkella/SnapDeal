@@ -16,6 +16,7 @@ giftcardpage={"gifticon":{"xpath":"//div[@class='headerBar reset-padding']//span
               "product":{"xpath":"//section[1]//div[1]//div[2]//a[1]//picture[1]//img[1]"},"buynow":{"id":"buy-button-id"},"recipientName":{"id":"recipientName"},"recipientEmail":{"id":"recipientEmail"},
               "message":{"id":"giftingMessage"},"fullname":{"id":"customerName"},"mobile":{"id":"customerMobile"},"clickbutton":{"id":"delivery-modes-continue"},
               "payment":{"id":"make-payment"},"cashondeliver":{"xpath":"//span[contains(text(),'Cash On Delivery')]"},"netbanking":{"xpath":"//span[contains(text(),'Net Banking')]"},
-              "dropdown":{"xpath":"//body//div[@id='nb-mode']//div//div[1]//label[1]//span[1]"},
-              "andhrabank":{"xpath":"//li[contains(text(),'Andhra Bank')]"}
+              "dropdown":{"xpath":"//div[contains(text(),'Select')]"},"andhrabank":{"xpath":"//li[contains(text(),'Andhra Bank')]"},"makepayment":{"id":"make-payment-button"},
+              "userid":{"id":"AuthenticationFG.USER_PRINCIPAL"},"password":{"id":"AuthenticationFG.ACCESS_CODE"},"loginin":{"id":"VALIDATE_CREDENTIALS1"}
+
 }

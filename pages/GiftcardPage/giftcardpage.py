@@ -47,6 +47,14 @@ class GiftcardPage():
     gcp_dropdown_Locatortype = list(Locator['dropdown'].items())[0][0]
     gcp_andhrabank_Locator = list(Locator['andhrabank'].items())[0][1]
     gcp_andhrabank_Locatortype = list(Locator['andhrabank'].items())[0][0]
+    gcp_makepayment_Locator = list(Locator['makepayment'].items())[0][1]
+    gcp_makepayment_Locatortype = list(Locator['makepayment'].items())[0][0]
+    gcp_userid_Locator = list(Locator['userid'].items())[0][1]
+    gcp_userid_Locatortype = list(Locator['userid'].items())[0][0]
+    gcp_password_Locator = list(Locator['password'].items())[0][1]
+    gcp_password_Locatortype = list(Locator['password'].items())[0][0]
+    gcp_loginin_Locator = list(Locator['loginin'].items())[0][1]
+    gcp_loginin_Locatortype = list(Locator['loginin'].items())[0][0]
 
     def __init__(self,driver):
         self.obj_SA=Se_actions(driver=driver)
@@ -131,10 +139,26 @@ class GiftcardPage():
         self.obj_SA.clickon(netbank)
         time.sleep(3)
         self.obj_SA.selectRadiobutton(locator=self.gcp_dropdown_Locator,locatorType=self.gcp_dropdown_Locatortype)
+        # andhrabank=self.obj_SA.getElement(locator=self.gcp_andhrabank_Locator,locatortype=self.gcp_andhrabank_Locatortype)
+        # self.obj_SA.clickon(andhrabank)
+
+    def makepayment(self):
+        makepayment=self.obj_SA.getElement(locator=self.gcp_makepayment_Locator,locatortype=self.gcp_makepayment_Locatortype)
+        self.obj_SA.clickon(makepayment)
+
+    def payment_icicibank(self,user_id,paswrd):
+        userid=self.obj_SA.getElement(locator=self.gcp_userid_Locator,locatortype=self.gcp_userid_Locatortype)
+        self.obj_SA.SendKeys(element=userid,message=user_id)
+        password=self.obj_SA.getElement(locator=self.gcp_password_Locator,locatortype=self.gcp_password_Locatortype)
+        self.obj_SA.SendKeys(element=password, message=paswrd)
+        login=self.obj_SA.getElement(locator=self.gcp_loginin_Locator,locatortype=self.gcp_loginin_Locatortype)
+        self.obj_SA.clickon(login)
 
 
 
-    def giftcards(self,rName,rEmail,msge,fulnam):
+
+
+    def giftcards(self,rName,rEmail,msge,fulnam,username,password):
         self.gotogiftpage()
         self.select00_10Discount()
         time.sleep(5)
@@ -155,6 +179,8 @@ class GiftcardPage():
         self.clickbutton()
         self.payment()
         self.netbanking()
+        self.makepayment()
+        self.payment_icicibank(user_id=username,paswrd=password)
 
 
 

@@ -19,3 +19,7 @@ recipientEmail="shivakumar.kella@gmail.com"
 message="we want this product ASP..."
 fullname="kella shivakumar"
 mobile="9000342987"
+
+# payment details
+userid="shivakumarkella"
+password="0891shiva"
